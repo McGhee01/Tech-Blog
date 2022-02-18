@@ -1,0 +1,20 @@
+{
+  "name": "Tech-Blogg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McGhee01/Tech-Blogg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McGhee01/Tech-Blogg/issues"
+  },
+  "homepage": "https://github.com/McGhee01/Tech-Blogg#readme"
+}
